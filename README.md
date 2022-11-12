@@ -36,7 +36,7 @@ contribution to keep it stable. For more on how to contribute, [take a look at t
 
 Contents of demo.R pasted below:
 
-```
+```r
 source("demo.R")
 
 conn <- riak_http_connection("localhost",10018)
